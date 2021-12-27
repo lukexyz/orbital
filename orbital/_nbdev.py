@@ -2,9 +2,9 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"prepare_and_launch": "00_launch.ipynb"}
 
-modules = []
+modules = ["launch.py"]
 
 doc_url = "https://lukexyz.github.io/orbital/"
 
