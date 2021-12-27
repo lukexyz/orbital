@@ -1,10 +1,7 @@
 # orbital
 
-Orbital playground using `poliastro` and `streamlit`.
+Orbital playground using `rocketpy` and `streamlit`.
 
-![alt text](media/splash.PNG)
-
-Rendering with matplotlib is slow (90 ms) vs. altair (5 ms).
 
 ## Dev Environment
 
