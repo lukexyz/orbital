@@ -1,6 +1,6 @@
 # orbital
 
-Orbital mechanics playground using `poliastro` and `streamlit` nbdev.
+Orbital mechanics playground using `poliastro` and `streamlit`.
 
 
 ## Dev Environment
